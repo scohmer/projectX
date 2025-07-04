@@ -1,0 +1,7 @@
+# -- Python virtual-envs -----------------------
+.venv/
+venv/
+env/
+# -- dotenv secrets ----------------------------
+.env
+.env.*
